@@ -1,6 +1,5 @@
 numeros = [3,2,5,3,3,4,8,4,8]
 numeroR= 0
-otro= 0
 for i in range(len(numeros)): 
     cant = numeros.count(numeros[i])
     if i==0:
