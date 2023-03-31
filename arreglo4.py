@@ -1,3 +1,9 @@
+"""Dada dos listas de caracteres, se requiere contar las diferencias entre
+ellas y mostrar dicho conteo.
+○ Ejemplo: Si se tienen las listas [“A”, “B”, “C”] y [“A”, “E”, “H”],
+entonces el conteo sería 2 ya que hay dos diferencias.
+Nota: Las listas deben ser de igual longitud y esto debe ser validado."""
+
 lista0 = [2,5,7]
 lista1 = [2,5,8]
 a = [3,4,5,2,43,9,6,13]
